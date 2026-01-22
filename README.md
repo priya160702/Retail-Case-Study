@@ -83,4 +83,12 @@ Provide strategic business recommendations for 2023 growth
 
 5. Integrate demographic, geographic, and channel insights for personalized campaigns
 
-###
+### Tools and Technologies
+
+Microsoft Excel: Data cleaning, analysis, pivot tables, charts
+
+Formulas: SUMIFS, COUNTIFS, VLOOKUP, IF statements
+
+Visualization: Line charts, bar charts, map charts, conditional formatting
+
+Analytical Methods: Segmentation, temporal trend analysis, channel performance evaluation
