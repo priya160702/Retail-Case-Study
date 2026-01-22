@@ -73,14 +73,14 @@ Provide strategic business recommendations for 2023 growth
 
 ### Business Recommendations
 
-Focus marketing campaigns on women aged 30–49
+1. Focus marketing campaigns on women aged 30–49
 
-Target Maharashtra, Karnataka, and Uttar Pradesh with localized offers
+2. Target Maharashtra, Karnataka, and Uttar Pradesh with localized offers
 
-Prioritize Amazon, Flipkart, and Myntra for strategic promotions
+3. Prioritize Amazon, Flipkart, and Myntra for strategic promotions
 
-Optimize inventory and marketing for high-demand periods, especially March
+4. Optimize inventory and marketing for high-demand periods, especially March
 
-Integrate demographic, geographic, and channel insights for personalized campaigns
+5. Integrate demographic, geographic, and channel insights for personalized campaigns
 
 ###
