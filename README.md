@@ -60,3 +60,27 @@ Amazon: ~35% of total sales
 Top three channels (Amazon, Flipkart, Myntra): ~80% of revenue
 
 Pivot tables & bar charts used to rank sales channels
+
+### Key Insights
+
+| Area | Key Insight |
+|------|------------|
+| Temporal Trends | Sales peak in March, indicating seasonal demand opportunities |
+| Customer Demographics | Women aged 30–49 are the most valuable customer segment, contributing ~65% of sales |
+| Geographic Trends | Maharashtra, Karnataka, and Uttar Pradesh account for ~35% of total sales |
+| Product Preferences | Adult products in orange are the most purchased items |
+| Channel Performance | Amazon, Flipkart, and Myntra account for ~80% of total revenue, with Amazon alone contributing ~35% |
+
+### Business Recommendations
+
+Focus marketing campaigns on women aged 30–49
+
+Target Maharashtra, Karnataka, and Uttar Pradesh with localized offers
+
+Prioritize Amazon, Flipkart, and Myntra for strategic promotions
+
+Optimize inventory and marketing for high-demand periods, especially March
+
+Integrate demographic, geographic, and channel insights for personalized campaigns
+
+###
